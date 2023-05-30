@@ -1,1 +1,1 @@
-# PW-Data-Science-Masters-2.0-Assignments
+# PW-Data-Science-Masters-2.0-Weekly-Assignments
